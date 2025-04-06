@@ -1,3 +1,4 @@
+## 自定义识别词
 ## 香格里拉边境
 Shangri-La.Frontier.2024.S02 => Shangri-La.Frontier.2024.S01 && S01 <>  .1080p >> EP+25
 ## 药屋少女的呢喃
