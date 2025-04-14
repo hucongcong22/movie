@@ -14,3 +14,5 @@ WIND BREAKER—防風少年— Season 2 => {[tmdbid=223500;type=tv]}
 炎炎消防隊 參之章 => {[tmdbid=88046;type=tv;s=3]}
 ## 男女之間存在純友情嗎
 男女之間存在純友情嗎？（不，不存在！） => {[tmdbid=217407;type=tv]}
+
+離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進 => {[tmdbid=270487;type=tv]}
