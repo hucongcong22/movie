@@ -18,6 +18,7 @@ WIND BREAKER—防風少年— Season 2 => {[tmdbid=223500;type=tv]}
 離開 A 級隊伍的我，和從前的弟子往迷宮深處邁進 => {[tmdbid=270487;type=tv]}
 
 ## 一念永恒
-A.Will.Eternal.2024.S03 => A.Will.Eternal.2024.S01 && S01 <> .2160p >> EP+106
+一念永恒.A.Will.Eternal.S03 => A.Will.Eternal.2024.S01 && S01 <> .2160p >> EP+106
+A.Will.Eternal.S03 => A.Will.Eternal.2024.S01 && S01 <> .2160p >> EP+106
 一念永恒.Yi.Nian.Yong.Heng.2024.S03 => 一念永恒.S01 <> S01 <> .2016p >> EP+106
 \[一念永恒 第三季\].A.Will.Eternal.2024.S03 => A.Will.Eternal.2024.S01 && S01 <> .2160p >> EP+106
